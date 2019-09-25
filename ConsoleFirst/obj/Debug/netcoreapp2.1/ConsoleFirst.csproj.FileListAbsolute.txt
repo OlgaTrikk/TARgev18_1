@@ -1,0 +1,11 @@
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.1\ConsoleFirst.deps.json
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.1\ConsoleFirst.runtimeconfig.json
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.1\ConsoleFirst.runtimeconfig.dev.json
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.1\ConsoleFirst.dll
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.1\ConsoleFirst.pdb
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.csprojAssemblyReference.cache
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.csproj.CoreCompileInputs.cache
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.AssemblyInfoInputs.cache
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.AssemblyInfo.cs
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.dll
+C:\Users\prymn\source\repos\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.1\ConsoleFirst.pdb

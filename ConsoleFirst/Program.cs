@@ -44,9 +44,17 @@ namespace ConsoleFirst
 			else
 				Console.WriteLine("zero");
 
+			// on your own - 2 numbers, print out which is greater
+			int a = 1;
+			int b = 8;
+			
+			// TODO
+		
+
 			// methods - see below
 			// - isPositive 
 			Console.WriteLine(IsPositive(-10));
+			// TODO - write isNegative method
 
 			//arrays
 			int[] numbers = { 1, -7, 24, 0 };
@@ -55,7 +63,7 @@ namespace ConsoleFirst
 			{
 				Console.WriteLine(number);
 			}
-			// loops with methods
+			// loops with methods -- on your own
 			foreach (int number in numbers)
 			{
 				Console.WriteLine(IsPositive(number));
@@ -70,6 +78,7 @@ namespace ConsoleFirst
 			{
 				Console.WriteLine(i);
 			}
+			// TODO - downward counting from 5 to 0 by 1
 
 			Console.WriteLine("While cycle");
 			int j = 0;
@@ -77,7 +86,7 @@ namespace ConsoleFirst
 				Console.WriteLine(j);
 				j+=2;
 			}
-
+			// TODO - downward counting from 10 to -10 by 3
 
 			/// OOP - classes & objects
 			Food noodles = new Food("Noodles", 1.5);
